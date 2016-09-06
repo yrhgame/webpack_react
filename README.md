@@ -1,4 +1,4 @@
-webpack + es6 + Webpack-dev-server 环境搭建实例
+webpack + react + Webpack-dev-server 环境搭建实例
 
 #目录结构说明：
 <pre><code>
